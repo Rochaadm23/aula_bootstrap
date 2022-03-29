@@ -1,0 +1,44 @@
+.navbar{
+    background-color: #5FB404 ;
+    list-style-type: none;
+    margin: 0;
+    padding: 20%;
+    overflow: hidden;
+    
+}
+
+.quem-somos{
+    background-color: cadetblue;
+    
+}
+
+.margin{
+    margin-bottom: 50px;
+    border: 3px solid green;
+    padding: 10px;
+}
+
+
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+     }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 16px;
+    text-decoration: none;
+  }
+  
+  li a:hover {
+    background-color: #111111;
+  }
